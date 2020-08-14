@@ -1,2 +1,2 @@
-# top-nmap-ports-csv
-Various lists of the most popular ports as evaluated by nmap, expressed as lists and csv.
+# Top n TCP ports
+Various lists of the most popular TCP ports as evaluated by nmap, expressed as lists and csv.
